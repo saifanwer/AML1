@@ -1,4 +1,4 @@
-# Assignment1: Classification
+# Classification
 ##### By Mohammad Saif Anwer
 ##### BMC201614
 
